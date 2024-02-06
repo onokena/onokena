@@ -1,6 +1,6 @@
 <p align="center"><h2>Hello 👋</h2></p>
 
-I'm a tech and gaming enthusiast who loves to learn about new things, currently a Softuni Student & Varna Free University "Chernorizets Hrabar" 3rd year Computer Science student.
+I'm a tech and gaming enthusiast who loves to learn about new things, currently a Softuni Student & New Bulgarian University 4th year Computer Science student.
 
 
 [![Steam Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
