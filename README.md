@@ -12,7 +12,7 @@ I'm a tech and gaming enthusiast who loves to learn about new things, currently 
 
 ## ⚡ Skills:
 - Python
-- JavaScript with Next.js
+- JavaScript with Next.js & React
 - Typescript with Angular
 - Lua - limited to Addon & Weakaura development for World of Warcraft.
 
