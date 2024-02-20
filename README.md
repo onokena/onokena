@@ -5,9 +5,9 @@
 - Python, TypeScript, JavaScript, Lua, PostgreSQL, MongoDB, Go(Learning)
 
 ##  💻 Currently working on:
-- Ecommerce with Django & React. - Currently on it
+- Ecommerce with Django & React. - Currently on it(paused for now)
 - Portfolio re-vamp - [W.I.P]
-- Finding an actual developer job (lol)
+- Youtube Downloader.
 
 
 
